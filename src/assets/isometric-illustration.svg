@@ -1,0 +1,29 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景网格 -->
+  <path d="M0 300 L800 300" stroke="#4957f6" stroke-width="1" stroke-opacity="0.1"/>
+  <path d="M400 0 L400 600" stroke="#4957f6" stroke-width="1" stroke-opacity="0.1"/>
+  
+  <!-- 等距立方体 1 -->
+  <path d="M300 250 L400 200 L500 250 L400 300 Z" fill="#4957f6" fill-opacity="0.2"/>
+  <path d="M500 250 L500 350 L400 400 L400 300 Z" fill="#4957f6" fill-opacity="0.3"/>
+  <path d="M400 300 L400 400 L300 350 L300 250 Z" fill="#4957f6" fill-opacity="0.1"/>
+  
+  <!-- 等距立方体 2 -->
+  <path d="M450 300 L550 250 L650 300 L550 350 Z" fill="#2b3af5" fill-opacity="0.2"/>
+  <path d="M650 300 L650 400 L550 450 L550 350 Z" fill="#2b3af5" fill-opacity="0.3"/>
+  <path d="M550 350 L550 450 L450 400 L450 300 Z" fill="#2b3af5" fill-opacity="0.1"/>
+  
+  <!-- 圆形装饰 -->
+  <circle cx="400" cy="250" r="30" fill="#4957f6" fill-opacity="0.2"/>
+  <circle cx="600" cy="350" r="20" fill="#2b3af5" fill-opacity="0.3"/>
+  
+  <!-- 连接线 -->
+  <path d="M400 280 L500 330" stroke="#4957f6" stroke-width="2" stroke-opacity="0.5"/>
+  <path d="M600 370 L500 400" stroke="#2b3af5" stroke-width="2" stroke-opacity="0.5"/>
+  
+  <!-- 小点装饰 -->
+  <circle cx="400" cy="280" r="4" fill="#4957f6"/>
+  <circle cx="500" cy="330" r="4" fill="#4957f6"/>
+  <circle cx="600" cy="370" r="4" fill="#2b3af5"/>
+  <circle cx="500" cy="400" r="4" fill="#2b3af5"/>
+</svg> 

@@ -1,0 +1,35 @@
+src/
+├── assets/
+├── components/
+│   ├── common/
+│   │   ├── Header.vue
+│   │   └── Sidebar.vue
+├── views/
+│   ├── auth/
+│   │   ├── Login.vue
+│   │   └── Register.vue
+│   ├── account/
+│   │   └── AccountManagement.vue
+│   ├── influencer/
+│   │   ├── InfluencerList.vue
+│   │   └── InfluencerDetail.vue
+│   ├── invitation/
+│   │   ├── BatchInvitation.vue
+│   │   └── DirectInvitation.vue
+│   ├── chat/
+│   │   └── ChatSystem.vue
+│   ├── blacklist/
+│   │   └── BlacklistManagement.vue
+│   └── profile/
+│       └── UserProfile.vue
+├── router/
+│   └── index.js
+├── store/
+│   └── index.js
+├── api/
+│   ├── auth.js
+│   ├── influencer.js
+│   └── invitation.js
+└── utils/
+    ├── request.js
+    └── auth.js 

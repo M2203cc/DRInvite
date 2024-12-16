@@ -1,0 +1,3 @@
+vue create influencer-management-system
+cd influencer-management-system
+npm install vue-router vuex axios element-ui 
